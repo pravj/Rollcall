@@ -1,0 +1,49 @@
+/* main css style for 'Rollcall' */
+body
+{/*#134468 #4e626f #2e374d*/
+	background: #4e626f;
+}
+.center
+{
+	text-align: center;
+}
+.right
+{
+	text-align: right;
+}
+.left
+{
+	text-align: left;
+}
+.head
+{
+	height: 70px;
+	background: #292b2d;
+	/*think for different color on 'self' thing*/
+}
+.space25
+{
+	padding-top: 25px;
+	color: rgba(195,191,188,0.4);
+	/*text-shadow: 1px 1px 1px #555;*/
+	position: relative;
+	left: -70px;
+}
+/*on hover show other color for class="space25"*/
+.font40
+{
+	font-size: 40px;
+}
+.space
+{
+	padding-top: 25px;
+	color: #7d7e80;
+}
+.font
+{
+	font-size: 25px;
+}
+.upper_bar
+{
+	/*height: */
+}
